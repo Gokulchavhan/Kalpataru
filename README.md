@@ -20,17 +20,17 @@ c)    The user can order service in his house.
 d) There are many services available like Cleaning, Electrical, Plumbing, Appliances, Painting, Carpentry, etc.
 
 
-2. Employee Part
+2. Expert Part
 
-a) Employee can register by instructions.
+a) Expert can register by instructions.
 
-b) After registration approved employee can login.
+b) After registration approved expert can login.
 
-c) Employee can update his/her profile.
+c) Expert can update his/her profile.
 
-d) Employee get lots of servicing orders.
+d) Expert get lots of servicing orders.
 
-e) Employee can earn money.
+e) Expert can earn money.
 
 
 3. Admin Part
