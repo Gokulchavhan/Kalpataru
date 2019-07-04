@@ -10,20 +10,35 @@ Secondly, the registered user can access various types of events by using this w
 There are mainly three modules in this project. These modules are as follows –
 
 1. User Part
+
 a) User can Sign up, Login and order Service.
+
 b) User can search services city wise.
+
 c)    The user can order service in his house.
+
 d) There are many services available like Cleaning, Electrical, Plumbing, Appliances, Painting, Carpentry, etc.
 
+
 2. Employee Part
+
 a) Employee can register by instructions.
+
 b) After registration approved employee can login.
+
 c) Employee can update his/her profile.
+
 d) Employee get lots of servicing orders.
+
 e) Employee can earn money.
 
+
 3. Admin Part
-	a) Login, update account.
+
+a) Login, update account.
+
 b) Add City, Service, Service Category, Service Time and Admin.
+
 c) Block City, Service, Service Category, Service Time and Admin.
+
 d) Approve or delete employee request.
