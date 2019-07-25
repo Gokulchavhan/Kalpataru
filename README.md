@@ -1,5 +1,5 @@
 # Kalpataru
-<p align="justify">It's my MCA 6th semester major project created in PHP.
+<p align="justify">
 Kalpataru is a complete project solution that maximizes the speed and effectiveness of user efforts. Kalpataru Portal instantly administrative side posts positions created and user booking various events from the web site. A full set of intuitive tools allows the user to search and booking respective orders.</p><br/>
   
 <p align="justify">Kalpataru caters a two-way service. Firstly, a user can register himself with this. If the person is already a registered user, it is affiliated to update own profile. If not, is needed to be a registered user first. The users are required to specify their Name, Email id, age, phone No., etc. and these serve as the Key Functional Parameters while matching the User criteria.</p><br />
