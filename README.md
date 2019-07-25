@@ -7,17 +7,17 @@ Kalpataru caters a two-way service. Firstly, a user can register himself with t
 
 Secondly, the registered user can access various types of events by using this website after the approval from the Administrative section. The Key Functional Parameters are the main arguments while accessing by the administrative section, considered amongst the updated event. Although, there is a provision for the non-registered users, who do not access any service/event. 
 
-There are mainly three modules in this project. These modules are as follows –
+**There are mainly three modules in this project. These modules are as follows –**
 
-1. User Part
+**1. User Part**
 
-a) User can Sign up, Login and order Service.
+- a) User can Sign up, Login and order Service.
 
-b) User can search services city wise.
+- b) User can search services city wise.
 
-c)    The user can order service in his house.
+- c)    The user can order service in his house.
 
-d) There are many services available like Cleaning, Electrical, Plumbing, Appliances, Painting, Carpentry, etc.
+- d) There are many services available like Cleaning, Electrical, Plumbing, Appliances, Painting, Carpentry, etc.
 
 
 2. Expert Part
